@@ -1,4 +1,4 @@
-Package: RanglaPunjab
+Package: ColorsOfPunjab
 Title: Displays Palette of 5 Colors
 Version: 2.3.4
 Authors@R: person("Sonia", "Ahluwalia", email = "sonia.bhar.ahluwalia@gmail.com", role = c("aut", "cre"))
