@@ -1,4 +1,4 @@
-# RanglaPunjab 
+# ColorsOfPunjab 
 [![CRAN](http://www.r-pkg.org/badges/version/RanglaPunjab)](https://CRAN.R-project.org/package=RanglaPunjab) 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 ![](https://cranlogs.r-pkg.org/badges/last-day/RanglaPunjab)
@@ -195,7 +195,7 @@ In Punjab, this festival is known as Teeyan. Teeyan involves women getting toget
 
 Because I love colors so much.
 
-Phulkaris are usually made into [Dupattas](https://simple.wikipedia.org/wiki/Dupatta) to be worn with [Salwar Kameez](http://www.panashindia.com/salwar/punjabi-suits) (Punjabi ladies's suit), as shown in the reference photo.
+Phulkaris are usually made into [Dupattas](https://simple.wikipedia.org/wiki/Dupatta) to be worn with [Salwar Kameez](https://www.urbanwomania.com/product-category/suits-sets/) (Punjabi ladies's suit), as shown in the reference photo.
 
 ![Phulkari](https://github.com/ArtieLadie/RanglaPunjab/blob/master/inst/img/phulkari2.jpg)
 
@@ -219,6 +219,6 @@ And who cannot love jutti in every conceivable design!
 
 ### Paranda
 
-With [Paranda](https://www.utsavpedia.com/attires/paranda-or-parandi-from-punjab/), one can never have a bad hair day!
+With [Paranda], one can never have a bad hair day!
 
 ![Paranda](https://github.com/ArtieLadie/RanglaPunjab/blob/master/inst/img/paranda.jpg)
